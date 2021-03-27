@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wengyt
-- 👀 I’m interested in \textbf{network security} and data analysis.
+- 👀 I’m interested in Network Security and Data Analysis.
 - 🌱 I’m currently learning Computer Network, Cryptography, Blockchain, Digital Forensics, SQL, Principle of Communication.
 
 
