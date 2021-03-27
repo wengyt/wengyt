@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wengyt
 - 👀 I’m interested in network security and data analysis.
-- 🌱 I’m currently learning Computer Network, Blockchain, Digital Forensics, SQL.
+- 🌱 I’m currently learning Computer Network, Cryptography, Blockchain, Digital Forensics, SQL, Principle of Communication.
 
 
 <!---
